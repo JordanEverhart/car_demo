@@ -1,0 +1,9 @@
+digraph G {
+"base_link" -> "lidar_frame"[label="Broadcaster: /robot_simulation_node_27987_1752829614601\nAverage rate: 10000.000 Hz\nMost recent transform: 0.000 ( 1752829797.319 sec old)\nBuffer length: 0.000 sec\n"];
+"odom" -> "base_link"[label="Broadcaster: /robot_simulation_node_27987_1752829614601\nAverage rate: 48.457 Hz\nMost recent transform: 1752829797.309 ( 0.011 sec old)\nBuffer length: 4.953 sec\n"];
+"map" -> "odom"[label="Broadcaster: /amcl\nAverage rate: 26.742 Hz\nMost recent transform: 1752829797.386 ( -0.067 sec old)\nBuffer length: 4.974 sec\n"];
+edge [style=invis];
+ subgraph cluster_legend { style=bold; color=black; label ="view_frames Result";
+"Recorded at time: 1752829797.319"[ shape=plaintext ] ;
+ }->"map";
+}

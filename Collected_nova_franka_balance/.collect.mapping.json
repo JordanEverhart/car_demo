@@ -1,0 +1,377 @@
+{
+    "version": "1.0",
+    "file_records": [
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/FRONT_WHEEL_SUPPORT_KFfQ.usd",
+            "source_hash": "786ea8c35824bf2e443f98b7c27f983d1c3a3ddc",
+            "target_url": "./SubUSDs/FRONT_WHEEL_SUPPORT_KFfQ.usd",
+            "target_hash": "c9ac0d7c8b899681088e4f71b394e96171249636"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/K026S0727__KFXP.usd",
+            "source_hash": "33e5464ae87321cda81d9e84c58179efd59c8350",
+            "target_url": "./SubUSDs/K026S0727__KFXP.usd",
+            "target_hash": "38c0401fb51fd8367ad26f620c6141ecd2ab3564"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/K033A0004_1_1_KFPV.usd",
+            "source_hash": "354d37d57cf1d2f9b1c44152b0e0572dfe3e9c64",
+            "target_url": "./SubUSDs/K033A0004_1_1_KFPV.usd",
+            "target_hash": "661e59b516dbc90e7cf19dd5d63f67484342db8e"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/K033P0007FIX_RIB1_KFLQ.usd",
+            "source_hash": "84347c83f8accce557d1c504b8bfbb92f301be4b",
+            "target_url": "./SubUSDs/K033P0007FIX_RIB1_KFLQ.usd",
+            "target_hash": "05f17bd1e662b8bffc1b178f4bbf3d0ff4e33bbd"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/K033P0008FIX_RIB2_KFTQ.usd",
+            "source_hash": "9c315d48a3498260b42ddceca23ce02f5d884708",
+            "target_url": "./SubUSDs/K033P0008FIX_RIB2_KFTQ.usd",
+            "target_hash": "11a85ada1f024f772e88a957e04371c700f954b1"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/K033P0009SHAFT_CONNECTION_PLATE_KFHQ.usd",
+            "source_hash": "79ad08e85845c5809d58673b656ce4fafd1c6ff0",
+            "target_url": "./SubUSDs/K033P0009SHAFT_CONNECTION_PLATE_KFHQ.usd",
+            "target_hash": "81a19415cff6d007f21c5bdeb935b1d488231584"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/K033P0010CONNECTION_RIB_KF2FP.usd",
+            "source_hash": "78d0a97f5021e4e0daaa0a4a039e800dab345ef3",
+            "target_url": "./SubUSDs/K033P0010CONNECTION_RIB_KF2FP.usd",
+            "target_hash": "41952226e13a52c11c99cdf0fa2bf1ce3c45f48f"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/K033P0012_KFfP.usd",
+            "source_hash": "8a0ba8f923724d829ce4774a6e53b536ceb0bf1d",
+            "target_url": "./SubUSDs/K033P0012_KFfP.usd",
+            "target_hash": "978d5dfebd6307e6a90df8357effc4354cf7cd7b"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/PRESS_IN_NUT_M8__KFXQ.usd",
+            "source_hash": "b70d62484fd87107d925f4663074c5f205ce82aa",
+            "target_url": "./SubUSDs/PRESS_IN_NUT_M8__KFXQ.usd",
+            "target_hash": "e8c0e8581ed268083e8a168459484244a15bdccf"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/PRESS_IN_NUT_M8__KFbQ.usd",
+            "source_hash": "2a0186f905f78abbab11f29a97e727f933f5214e",
+            "target_url": "./SubUSDs/PRESS_IN_NUT_M8__KFbQ.usd",
+            "target_hash": "2748cd6de132084891a9f775000d37e71e596cc0"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/PRT0015_KFDQ.usd",
+            "source_hash": "5b681d938efea4f7c3a52b1ad893434c9cbdb055",
+            "target_url": "./SubUSDs/PRT0015_KFDQ.usd",
+            "target_hash": "80e15c0388d443c5aa341319a99e32c7545b74ab"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/PRT0035_KFPQ.usd",
+            "source_hash": "fd82ea653445989b5fe307e7ce85a4170d60a4e5",
+            "target_url": "./SubUSDs/PRT0035_KFPQ.usd",
+            "target_hash": "de3e4597222ae385bd341417c1ecaf1ca0cefdbf"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/parts/Part_158_JND.usd",
+            "source_hash": "9101e86e24a2acad5d8daacdf52a38c9736c02d3",
+            "target_url": "./SubUSDs/Part_158_JND.usd",
+            "target_hash": "048ffa55fa2c52503b657ee66cec2ce9fe477283"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/nova_carter/hawk_mesh.usd",
+            "source_hash": "83ab3a63086310ac8f69e7e667fd412754d343cd",
+            "target_url": "./SubUSDs/hawk_mesh.usd",
+            "target_hash": "e397437dda95444c4843814dffdb1addce4fbadd"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/OmniPBR/red_button_basecolor.png",
+            "source_hash": "5b4675102d1cd4513dd1f01182f1bdee824e2858",
+            "target_url": "./SubUSDs/textures/red_button_basecolor.png",
+            "target_hash": "07c18f7157abd4ec67971d4d72cca3f5812ddd09"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/OmniPBR/red_button_metallic.png",
+            "source_hash": "d484a2b95131c14f9a1a47f34aba1de528a20060",
+            "target_url": "./SubUSDs/textures/red_button_metallic.png",
+            "target_hash": "27e7366d1a662f437723e592c8609880369bc7e7"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/OmniPBR/red_button_roughness.png",
+            "source_hash": "44bb8a917f024a492631a0d31d1e1ccee3c06e11",
+            "target_url": "./SubUSDs/textures/red_button_roughness.png",
+            "target_hash": "f5c7bbb57ea8e5ec36a2d2ac54dcda52ab5c1038"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/aluminum_m/aluminum_m_basecolor.png",
+            "source_hash": "a3dc92fc052172c4c256ab1dfa899f2f1d268edd",
+            "target_url": "./SubUSDs/textures/aluminum_m_basecolor.png",
+            "target_hash": "980b8c683eae28308c26e98a9801831de00a85b5"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/aluminum_m/aluminum_m_metallic.png",
+            "source_hash": "605d3643eea689532bc0ac68371f3261ac7444a5",
+            "target_url": "./SubUSDs/textures/aluminum_m_metallic.png",
+            "target_hash": "931280e9f1bfb2db2fd607984f902f993e47fcac"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/aluminum_m/aluminum_m_normal.png",
+            "source_hash": "d1a9fdd3df1281509066b50274de021fb4e19086",
+            "target_url": "./SubUSDs/textures/aluminum_m_normal.png",
+            "target_hash": "8226d497cf5034922e525071d5fef7e33cbec278"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/aluminum_m/aluminum_m_roughness.png",
+            "source_hash": "09c55bf69de683abaafa36ad3ab047a8dc4a924e",
+            "target_url": "./SubUSDs/textures/aluminum_m_roughness.png",
+            "target_hash": "3f8539c22a9c1b11097300e090780732185d1fa5"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/aluminum_wheel_m/aluminum_wheel_m_basecolor.png",
+            "source_hash": "198f6006652bfc39c0bd73ee707942ae983e4666",
+            "target_url": "./SubUSDs/textures/aluminum_wheel_m_basecolor.png",
+            "target_hash": "cd69ad2366de4e54dacf10d1c1a54e1d0f53fbf9"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/aluminum_wheel_m/aluminum_wheel_m_metallic.png",
+            "source_hash": "557397b2105ccf4d50e23bdb3867a0ab85a223cd",
+            "target_url": "./SubUSDs/textures/aluminum_wheel_m_metallic.png",
+            "target_hash": "3719876f4cf448f5c2c5e56777103c1379e6c35f"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/aluminum_wheel_m/aluminum_wheel_m_normal.png",
+            "source_hash": "4a344e61a4b33626d478bc736d4ad4fe629165e3",
+            "target_url": "./SubUSDs/textures/aluminum_wheel_m_normal.png",
+            "target_hash": "b00d2dd94fe80bb81a704fb9fe98217d11c2542b"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/aluminum_wheel_m/aluminum_wheel_m_roughness.png",
+            "source_hash": "b8bba4ca1993d94f8debe491cf3daef442966a1e",
+            "target_url": "./SubUSDs/textures/aluminum_wheel_m_roughness.png",
+            "target_hash": "461cc793f0871fc0c2f870e8530deef42bb626b6"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/backtire_m/backtire_m_basecolor.png",
+            "source_hash": "f95244484c02780f1c15427ce61a1ab94bac0992",
+            "target_url": "./SubUSDs/textures/backtire_m_basecolor.png",
+            "target_hash": "da392cf13181d20b70ea6a3de596a68e5fe2fdd4"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/backtire_m/backtire_m_normal.png",
+            "source_hash": "0e29c3c0d8e15b830d8feea911ddbfff8d7f0e2c",
+            "target_url": "./SubUSDs/textures/backtire_m_normal.png",
+            "target_hash": "8cd312d84cf73f008e0e33cc9ace37e16879c21b"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/backtire_m/backtire_m_roughness.png",
+            "source_hash": "668a1c898e22a08572d087d4770b4b09c50e203f",
+            "target_url": "./SubUSDs/textures/backtire_m_roughness.png",
+            "target_hash": "ab83e238207d4d20d62b4081d32c7129d9b5fe88"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/backwheel_ring_m/backwheel_ring_m_basecolor.png",
+            "source_hash": "f87c2eba534e63d768220fd7f098798e97e2291c",
+            "target_url": "./SubUSDs/textures/backwheel_ring_m_basecolor.png",
+            "target_hash": "812130e368dd39b6ec52d4d89a97ff90d2bf7e50"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/backwheel_ring_m/backwheel_ring_m_normal.png",
+            "source_hash": "101a08d88bd2be3d921297b3714d86b12f3a0ab6",
+            "target_url": "./SubUSDs/textures/backwheel_ring_m_normal.png",
+            "target_hash": "238c07649fd6ce2f93aa1b77e2d665ef990f6e62"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/backwheel_ring_m/backwheel_ring_m_roughness.png",
+            "source_hash": "39372ad204fde08c46c588c43a56563391b13e7a",
+            "target_url": "./SubUSDs/textures/backwheel_ring_m_roughness.png",
+            "target_hash": "ab3b398d986529ae515036fe774cc93430a6d53c"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/filament_black/filament_black_basecolor.png",
+            "source_hash": "8e5951c219b9acfff78ee3b9e359430223d8f2c3",
+            "target_url": "./SubUSDs/textures/filament_black_basecolor.png",
+            "target_hash": "316a520dd3c87e14cc3fb0d6c74d0ad66ff0b03d"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/filament_black/filament_black_normal.png",
+            "source_hash": "8ccaeb00860713f11b5c045a8d2a76ce22cdcdbb",
+            "target_url": "./SubUSDs/textures/filament_black_normal.png",
+            "target_hash": "c730cb04e9f5ed8a980b4f39c5432c5451f0a399"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/filament_black/filament_black_roughness.png",
+            "source_hash": "5bd0914029a87d33c9a51c2c7443c3eef433ddc3",
+            "target_url": "./SubUSDs/textures/filament_black_roughness.png",
+            "target_hash": "2a8f7ae088bec46d13e9a8f053a7aa251e1f587c"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/front_leg_m/front_leg_m_basecolor.png",
+            "source_hash": "0121fe107fed42da9d2969f48cfd344c95f411ea",
+            "target_url": "./SubUSDs/textures/front_leg_m_basecolor.png",
+            "target_hash": "f8e64679ffa8354db045b80b19c496104db7d176"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/front_leg_m/front_leg_m_normal.png",
+            "source_hash": "cccb4003650712f6e9eaee99825066023b9c1368",
+            "target_url": "./SubUSDs/textures/front_leg_m_normal.png",
+            "target_hash": "c2d191f349f5dbd15863ece28a747143bcbee196"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/front_leg_m/front_leg_m_roughness.png",
+            "source_hash": "2ef154fddc6ca3a6120b2a6c36bfdf89a27f8e27",
+            "target_url": "./SubUSDs/textures/front_leg_m_roughness.png",
+            "target_hash": "9bd023f6e3868851a74db51cc734de3f5abbef76"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/fronttire_m/fronttire_m_basecolor.png",
+            "source_hash": "fdff00d66dc27221a9ee3e22062286064daa666f",
+            "target_url": "./SubUSDs/textures/fronttire_m_basecolor.png",
+            "target_hash": "f7f39f31bf996739acba22de465b20a2a0920ce5"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/fronttire_m/fronttire_m_normal.png",
+            "source_hash": "7481a20a506014407e7363c500019ca740faaf90",
+            "target_url": "./SubUSDs/textures/fronttire_m_normal.png",
+            "target_hash": "4bf93a626f5663e24384ebbed6c0b6aa9cc2df70"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/fronttire_m/fronttire_m_roughness.png",
+            "source_hash": "bcf95514bbfb54d76d4999f1d687aac10787fddc",
+            "target_url": "./SubUSDs/textures/fronttire_m_roughness.png",
+            "target_hash": "c914a2f371cdde59bf14d127220e79c936d0ae23"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/frontwheel_cap_m/frontwheel_cap_m_basecolor.png",
+            "source_hash": "590e7bdb15a1ec98b93ea14685e2476aa0b0a593",
+            "target_url": "./SubUSDs/textures/frontwheel_cap_m_basecolor.png",
+            "target_hash": "ff8971c26d95a8918aa0584b265b5d0a20d51fd2"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/frontwheel_cap_m/frontwheel_cap_m_normal.png",
+            "source_hash": "42cdbe8dc870d38b9f53087aad8ff0c8b6ad8f68",
+            "target_url": "./SubUSDs/textures/frontwheel_cap_m_normal.png",
+            "target_hash": "bb5f7082496e38a5862ac5358e374ddd7bb84188"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/frontwheel_cap_m/frontwheel_cap_m_roughness.png",
+            "source_hash": "e120ad7b46f40ea7bd7be8e889baefee0bd67b2f",
+            "target_url": "./SubUSDs/textures/frontwheel_cap_m_roughness.png",
+            "target_hash": "348dd98a0ce6f803c19ca2e2a59e9ca7d268df1d"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/lidar_glass_m/lidar_glass_m_normal.png",
+            "source_hash": "982f6aa030958dd02b87ff81e266d7bfcb53b295",
+            "target_url": "./SubUSDs/textures/lidar_glass_m_normal.png",
+            "target_hash": "13e2b556b9280e599aa527b98f054b8e051e3caf"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/lidar_glass_m/lidar_glass_m_roughness.png",
+            "source_hash": "d51fbe27162b5cacf22d09256a56f7957dd03c8d",
+            "target_url": "./SubUSDs/textures/lidar_glass_m_roughness.png",
+            "target_hash": "b043987559983a959b04b6948190f4d8f957ce31"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/logo_NVIDIA/nvlogo_opacity.png",
+            "source_hash": "309841362a55b673e631456f08aab217b9746166",
+            "target_url": "./SubUSDs/textures/nvlogo_opacity.png",
+            "target_hash": "73db221c2699d65e478b5713860c46b6428e0aac"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/logo_NVIDIA/nvlogo_white.png",
+            "source_hash": "8a91e1c0faa68d19f50fdeb45566c0bdb4f965bc",
+            "target_url": "./SubUSDs/textures/nvlogo_white.png",
+            "target_hash": "225d743011c0453d3c1286b94f0f8201b880f370"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/metal_black_m/metal_black_m_basecolor.png",
+            "source_hash": "a0ae94fbae28a8d5ebf7b9eef12ebb2921e94f43",
+            "target_url": "./SubUSDs/textures/metal_black_m_basecolor.png",
+            "target_hash": "37468bd5f3586128f22cb30074c935c330ad3c93"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/metal_black_m/metal_black_m_metallic.png",
+            "source_hash": "fdf53035618aced39314cef69bd17fae9c1b7c08",
+            "target_url": "./SubUSDs/textures/metal_black_m_metallic.png",
+            "target_hash": "2db5f7645d9629106651f577dd21cb93237907be"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/metal_black_m/metal_black_m_normal.png",
+            "source_hash": "a84ef2b1a36e57fa55c644e57c6239cdf7e7345d",
+            "target_url": "./SubUSDs/textures/metal_black_m_normal.png",
+            "target_hash": "74b4303a33bcf3e684c1f102966141f657690d7c"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/metal_black_m/metal_black_m_roughness.png",
+            "source_hash": "8a0dc21891ed581c1cbca16864011e0ae5364817",
+            "target_url": "./SubUSDs/textures/metal_black_m_roughness.png",
+            "target_hash": "d2e94cf6f41524337a1de2b53e466574be588442"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/metal_white_m/metal_white_m_basecolor.png",
+            "source_hash": "c7a61790d56345d6d5356beeab3c3014b01bc371",
+            "target_url": "./SubUSDs/textures/metal_white_m_basecolor.png",
+            "target_hash": "1a7eb10fd0b6b15a55803acb3a1c6240ea44df51"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/metal_white_m/metal_white_m_metallic.png",
+            "source_hash": "a7fc5ce404ed04766c4bc34c025e4aa7563da755",
+            "target_url": "./SubUSDs/textures/metal_white_m_metallic.png",
+            "target_hash": "b1e7ac0559d0862907f4a29dd3793e164a90207f"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/metal_white_m/metal_white_m_normal.png",
+            "source_hash": "54e6022c86965d41505987613b49e1dfa30ccdec",
+            "target_url": "./SubUSDs/textures/metal_white_m_normal.png",
+            "target_hash": "ec54ac881b251491783f9120bd4465247e47fc01"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/metal_white_m/metal_white_m_roughness.png",
+            "source_hash": "7dea8d8ccbb868cac0ab346d98ceac08fce91292",
+            "target_url": "./SubUSDs/textures/metal_white_m_roughness.png",
+            "target_hash": "44e7e65bfbcc658eab8a7d9d194ecc31101b394c"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/nobel_m/nobel_m_basecolor.png",
+            "source_hash": "2f444085760a1596443e4d265fe420b621882a08",
+            "target_url": "./SubUSDs/textures/nobel_m_basecolor.png",
+            "target_hash": "6563c1d17a6b52c55efa4324308f1e95da816480"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/nobel_m/nobel_m_normal.png",
+            "source_hash": "0001c89cd5133b8809b1ba654b7f5ca9cfdea3ae",
+            "target_url": "./SubUSDs/textures/nobel_m_normal.png",
+            "target_hash": "74838bff87b86fda9c6ba1cc05fcfe8eb1af4208"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/plastic_black/plastic_black_basecolor.png",
+            "source_hash": "4a520a534037e4a54f7004359025a3d58b13089e",
+            "target_url": "./SubUSDs/textures/plastic_black_basecolor.png",
+            "target_hash": "9e85ce557006b6656b1a26f6768b7c28b4678f2b"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/plastic_black/plastic_black_roughness.png",
+            "source_hash": "813b9b8c658e557a050ca7c69a36df1ed4c8fa1f",
+            "target_url": "./SubUSDs/textures/plastic_black_roughness.png",
+            "target_hash": "946bc8b935d9d531994e38f15b6b52a7af36c58a"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/wheelcap_m/wheelcap_m_basecolor.png",
+            "source_hash": "1bd08e3411566d9f44ec87b26f078034961c00a9",
+            "target_url": "./SubUSDs/textures/wheelcap_m_basecolor.png",
+            "target_hash": "6a17627e09dc27ca8f26c6b18669e4bfbbecdeb8"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/wheelcap_m/wheelcap_m_normal.png",
+            "source_hash": "6aba9081f47f83930db675c64762d2210b4507bc",
+            "target_url": "./SubUSDs/textures/wheelcap_m_normal.png",
+            "target_hash": "be7e8085b5d1bb1b040179882ab8cfd6e6d4e62c"
+        },
+        {
+            "source_url": "https://omniverse-content-production.s3-us-west-2.amazonaws.com/Assets/Isaac/4.5/Isaac/Robots/Carter/Materials/wheelcap_m/wheelcap_m_roughness.png",
+            "source_hash": "68da9512d03ca070857b76d5ab450c15cbf72c2d",
+            "target_url": "./SubUSDs/textures/wheelcap_m_roughness.png",
+            "target_hash": "17508727291e9bc8a3a1e977b1921f39c5ea8e10"
+        }
+    ]
+}

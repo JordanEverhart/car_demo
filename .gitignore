@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/ venv/ env/
+*.log
+
+# Build / artifacts (ROS/colcon/general)
+build/
+devel/
+install/
+dist/
+*.egg-info/
+
+# Run outputs
+Logs/
+logs/
+log/
+runs/
+output*/
+outputs*/
+
+# Large assets (Isaac / models / data / textures)
+*.usd
+*.usda
+*.usdc
+*.usdZ
+textures/
+SubUSDs/
+datasets/
+data/
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.pb
+*.npz
+*.npy
+
+# Archives & IDE
+*.zip
+*.tar
+*.tar.gz
+*.7z
+.vscode/
+.idea/
+.DS_Store
